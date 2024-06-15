@@ -1,5 +1,5 @@
 # Progressive Web Apps - Complete Guide
-This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
+This source code is part of my project "Progressive Web Apps - Idyllica" 
 
 # How to Use
 You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodclejs.org) and go through the installation steps.
