@@ -2,11 +2,11 @@ importScripts("/src/js/idb.js");
 importScripts("/src/js/utility.js");
 // attempt = 1;
 
-var CACHE_STATIC_NAME = "static-v63";
-var CACHE_DYNAMIC_NAME = "dynamic-v14";
+var CACHE_STATIC_NAME = "static-v30";
+var CACHE_DYNAMIC_NAME = "dynamic-v31";
 var STATIC_FILES = [
     "/",
-    "/help/index.html",
+    "/view/help.html",
     "/index.html",
     "/offline.html",
     "/src/js/app.js",

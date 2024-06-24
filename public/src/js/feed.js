@@ -177,7 +177,7 @@ function clearCards() {
     while (sharedMomentsArea.hasChildNodes()) {
         sharedMomentsArea.removeChild(sharedMomentsArea.lastChild);
     }
-}
+} 
 
 function createCard(data) {
     var cardWrapper = document.createElement("div");
